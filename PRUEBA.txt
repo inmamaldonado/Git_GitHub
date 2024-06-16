@@ -16,4 +16,8 @@ prueba en git ssh desde arriba de github
 
 otro cambio
 
+<<<<<<< HEAD
 aaa
+=======
+espero que guste el curso
+>>>>>>> ead120039fd82b50ac6a3014db1676fc29c53d11
